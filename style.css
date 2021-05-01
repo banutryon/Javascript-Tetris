@@ -26,7 +26,7 @@
     margin-left: 50px;
     display: flex;
     flex-wrap: wrap;
-    background-color: darkred;
+    background-color: rgb(61, 189, 180);
 }
 
 .mini-grid div {
